@@ -14,6 +14,7 @@ public class datatype {
         System.out.println("Character: " + dt.c);
         System.out.println("String: " + dt.d);
         System.out.println("Boolean: " + dt.e);
+        System.out.println("Boolean: " + dt.e);
     }
     
 }
